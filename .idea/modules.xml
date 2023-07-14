@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Patrones de Comportamiento/Command2/Command2.iml" filepath="$PROJECT_DIR$/Patrones de Comportamiento/Command2/Command2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/Composite/Composite.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATRONES CREACIONALES/ElectronicProductBuilder/ElectronicProductBuilder.iml" filepath="$PROJECT_DIR$/PATRONES CREACIONALES/ElectronicProductBuilder/ElectronicProductBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/Facade1/Facade1.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/Facade1/Facade1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATRONES DE DISEÑO.iml" filepath="$PROJECT_DIR$/PATRONES DE DISEÑO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATRONES CREACIONALES/PatronFacthoryMethod/PatronFacthoryMethod.iml" filepath="$PROJECT_DIR$/PATRONES CREACIONALES/PatronFacthoryMethod/PatronFacthoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones de Comportamiento/Patrones de Comportamiento.iml" filepath="$PROJECT_DIR$/Patrones de Comportamiento/Patrones de Comportamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/Practica_Desarrollo_de_Software/Practica_Desarrollo_de_Software.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/Practica_Desarrollo_de_Software/Practica_Desarrollo_de_Software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/Proxy_Expo/Proxy_Expo.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/Proxy_Expo/Proxy_Expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones de Comportamiento/iterator/iterator.iml" filepath="$PROJECT_DIR$/Patrones de Comportamiento/iterator/iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/patronDisenio/patronDisenio.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/patronDisenio/patronDisenio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patrones Estructurales/singleton/singleton.iml" filepath="$PROJECT_DIR$/Patrones Estructurales/singleton/singleton.iml" />
+    </modules>
+  </component>
+</project>
