@@ -3,6 +3,7 @@ package Memento;
 
 import java.util.ArrayList;
 
+
 public class BaseDeDatos {
 
     private ArrayList<Registro> listado;
@@ -33,12 +34,14 @@ public class BaseDeDatos {
     public void generarBackup(){
         caretaker.setBackup(listado);
     }
+
      public void getBackup(int i){
         listado = new ArrayList<>();
         for(Registro temp: caretaker.getBackup(i)){
             listado.add(temp);
         }
      }
+
      public int getTamanioBackup(){
         return caretaker.getSize();
      }
