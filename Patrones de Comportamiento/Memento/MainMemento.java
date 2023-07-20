@@ -2,6 +2,12 @@ package Memento;
 
 import java.util.Scanner;
 
+/*
+La clase `Caretaker` mantiene el histórico de estados de la base de datos (`BaseDeDatos`) y proporciona
+la capacidad de deshacer a un estado anterior. Esto es el patrón Memento en acción.
+ */
+
+
 public class MainMemento {
     public static void main(String args[]){
 

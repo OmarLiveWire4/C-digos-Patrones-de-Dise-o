@@ -1,5 +1,13 @@
 package Visitor.src;
- class VisitorStyleAnalyzer implements ArtworkVisitor {
+
+// Clases concretas que implementan la interfaz ArtworkVisitor.
+
+// VisitorStyleAnalyzer y VisitorPriceCalculator son las clases concretas que implementan
+// la interfaz ArtworkVisitor. Estos son los visitantes que realizan operaciones específicas
+// en los objetos de las clases Painting y Sculpture.
+
+
+class VisitorStyleAnalyzer implements ArtworkVisitor {
         @Override
         public void visit(Painting painting) {
             System.out.println("Analizando el estilo de la pintura");

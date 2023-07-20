@@ -1,3 +1,10 @@
+
+// // Este es el Director. Crea un objeto usando el Builder.
+// DeviceDirector es el Director en nuestro patrón. Tiene un método para construir
+// cada tipo de dispositivo. Cada método construye un dispositivo paso a paso y finalmente
+// llama al método build() para obtener el dispositivo final.
+
+
 public class DeviceDirector {
     private DeviceBuilder builder;
 

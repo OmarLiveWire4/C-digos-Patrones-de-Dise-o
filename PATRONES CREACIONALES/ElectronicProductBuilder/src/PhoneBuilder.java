@@ -1,3 +1,4 @@
+
 public class PhoneBuilder implements DeviceBuilder {
     private String brand;
     private String model;

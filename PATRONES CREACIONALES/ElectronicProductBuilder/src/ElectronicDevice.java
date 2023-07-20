@@ -1,3 +1,9 @@
+
+// // Este es el objeto que estamos construyendo.
+
+// ElectronicDevice es el objeto complejo que estamos construyendo.
+// Tiene varios atributos, cada uno de los cuales se establece utilizando el Builder.
+
 public class ElectronicDevice {
     private String brand;
     private String model;

@@ -1,5 +1,14 @@
-// Ejemplo de uso
 
+/*
+El patrón Factory Method es un patrón de diseño creacional que proporciona una interfaz para la
+creación de objetos en una superclase, pero permite a las subclases alterar el tipo de objetos que se crearán.
+
+En el código el patrón Factory Method se utiliza para crear diferentes tipos de documentos.
+
+Cada subclase de CreadorDocumento (es decir, CreadorInforme, CreadorFactura, CreadorCarta)
+implementa el método crearDocumento() para devolver un tipo concreto de Documento.
+Este es el núcleo del patrón Factory Method: delegar la responsabilidad de la creación de objetos en las subclases.
+ */
 
 public class App {
     public static void main(String[] args) {

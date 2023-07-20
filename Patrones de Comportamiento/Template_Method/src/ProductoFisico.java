@@ -1,5 +1,7 @@
 package Template_Method.src;
 
+// // Otras subclases de OrdenProcesar proporcionan implementaciones específicas
+//// de los pasos necesarios para procesar diferentes tipos de pedidos.
 public class ProductoFisico extends OrdenProcesar {
 
     @Override
